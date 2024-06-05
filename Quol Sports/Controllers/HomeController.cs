@@ -17,6 +17,11 @@ namespace Quol_Sports.Controllers
         {
             return View();
         }
+        public IActionResult product()
+        {
+            return View();
+        }
+
 
         public IActionResult Privacy()
         {
